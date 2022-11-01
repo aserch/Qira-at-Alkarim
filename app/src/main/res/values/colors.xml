@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparan">#00FFFFFF</color>
+
+    <!--             Warna brand mode terang             -->
+    <color name="color_brand_primary">#CA935C</color>
+    <color name="color_brand_secondary_1">#FFFCBB</color>
+    <color name="color_brand_secondary_2">#FFC98A</color>
+    <color name="color_brand_background">#fff</color>
+
+    <!--             Warna brand mode gelap             -->
+    <color name="color_brand_primary_dark">#f3f6bb</color>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="color_qalqala">#ff2f9900</color>
+    <color name="color_iqlab">#ff3164c5</color>
+    <color name="color_idgham">#ffb955c8</color>
+    <color name="color_ikhfa">#ffb60000</color>
+    <color name="color_ghunna">#ffd16a00</color>
+    <color name="color_idghamwo">#aaa</color>
+
+</resources>

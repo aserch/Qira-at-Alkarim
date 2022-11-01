@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="90dp">
+
+    <FrameLayout
+        android:id="@+id/nomer_ayat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <ImageView
+            android:id="@+id/image_juz_indicator"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:src="@drawable/nomer_ayat"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"/>
+
+        <TextView
+            android:id="@+id/text_juz_number"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1"
+            android:textColor="#FFF"
+            android:layout_gravity="center"
+            android:textSize="25dp"/>
+    </FrameLayout>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="1"
+        android:layout_marginStart="15dp">
+
+        <TextView
+            android:id="@+id/text_juz_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="Juz 1"
+            android:textColor="@color/material_on_surface_emphasis_high_type"
+            android:textSize="20sp"
+            android:padding="5dp"/>
+
+        <TextView
+            android:id="@+id/text_juz_start"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="Al_fatihah"
+            android:textColor="@color/material_on_surface_emphasis_medium"
+            android:textSize="20sp"
+            android:padding="5dp"/>
+
+    </LinearLayout>
+
+</LinearLayout>

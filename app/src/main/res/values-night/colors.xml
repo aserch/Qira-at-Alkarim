@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+
+
+
+    <color name="color_qalqala">#ff9fd291</color>
+    <color name="color_iqlab">#ff95cbfd</color>
+    <color name="color_idgham">#ffcd87d8</color>
+    <color name="color_ikhfa">#ffF19590</color>
+    <color name="color_ghunna">#ffeec67f</color>
+    <color name="color_idghamwo">#aaa</color>
+
+</resources>

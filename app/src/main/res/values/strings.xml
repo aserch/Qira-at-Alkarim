@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Qira\'at Alkarim</string>
+    <string name="qori_name">"Pilih qori "</string>
+    <string name="pick_color">pick color</string>
+
+
+    <string-array name="qoriLink">
+        <item>"Abdul_Basit_Mujawwad_128kbps"</item>
+        <item>"Abdullaah_3awwaad_Al-Juhaynee_128kbps"</item>
+        <item>"Abdullah_Basfar_64kbps"</item>
+        <item>"Abdullah_Matroud_128kbps"</item>
+        <item>"Abdurrahmaan_As-Sudais_192kbps"</item>
+        <item>"Abu_Bakr_Ash-Shaatree_128kbps"</item>
+        <item>"Ahmed_Neana_128kbps"</item>
+        <item>"Ahmed_ibn_Ali_al-Ajamy_128kbps_ketaballah.net"</item>
+        <item>"Akram_AlAlaqimy_128kbps"</item>
+        <item>"Alafasy_128kbps"</item>
+        <!--        New-->
+        <item></item>
+    </string-array>
+
+    <string-array name="qoriname">
+        <item>"Abdul Basit Mujawwad"</item>
+        <item>"Abdullaah awwaad Al-Juhaynee"</item>
+        <item>"Abdullah Basfar"</item>
+        <item>"Abdullah Matroud"</item>
+        <item>"Abdurrahmaan As-Sudais"</item>
+        <item>"Abu Bakr Ash-Shaatree"</item>
+        <item>"Ahmed Neana"</item>
+        <item>"Ahmed ibn Ali al-Ajamy"</item>
+        <item>"Akram AlAlaqimy"</item>
+        <item>"Alafasy"</item>
+    </string-array>
+
+</resources>
